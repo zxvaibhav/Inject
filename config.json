@@ -12,5 +12,11 @@
       "aes_key": "32_characters_long_key_123456789012",
       "aes_iv": "16_characters_iv"
     }
+    {
+      "name": "Server 3", 
+      "download_url": "https://github.com/zxvaibhav/Inject/raw/refs/heads/main/https://github.com/zxvaibhav/Inject/raw/refs/heads/main/vaibhav.zip",
+      "aes_key": "32_characters_long_key_123456789012",
+      "aes_iv": "16_characters_iv"
+    }
   ]
 }
