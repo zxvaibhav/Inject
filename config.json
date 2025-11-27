@@ -3,20 +3,14 @@
     {
       "name": "Server 1",
       "download_url": "https://example.com/files1.aes",
-      "aes_key": "key1_32byteslongkey123456789012",
-      "aes_iv": "iv1_16byteslongiv"
+      "aes_key": "32_characters_long_key_123456789012",
+      "aes_iv": "16_characters_iv"
     },
     {
       "name": "Server 2", 
       "download_url": "https://github.com/zxvaibhav/Inject/raw/refs/heads/main/https://github.com/zxvaibhav/Inject/raw/refs/heads/main/vaibhav.zip",
-      "aes_key": "key2_32byteslongkey123456789012",
-      "aes_iv": "iv2_16byteslongiv"
-    },
-    {
-      "name": "Server 3",
-      "download_url": "https://example.com/files3.aes",
-      "aes_key": "key3_32byteslongkey123456789012", 
-      "aes_iv": "iv3_16byteslongiv"
+      "aes_key": "32_characters_long_key_123456789012",
+      "aes_iv": "16_characters_iv"
     }
   ]
 }
